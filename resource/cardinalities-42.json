@@ -1,0 +1,31 @@
+{
+    "db": [
+        { "relations": ["T0"], "size": 9081},
+        { "relations": ["T1"], "size": 8108},
+        { "relations": ["T2"], "size": 361},
+        { "relations": ["T3"], "size": 1970},
+        { "relations": ["T4"], "size": 35},
+        { "relations": ["T5"], "size": 506},
+        { "relations": ["T0", "T1", "T2", "T5"], "size": 14408029},
+        { "relations": ["T0", "T1", "T3", "T4", "T5"], "size": 11176464},
+        { "relations": ["T1", "T3", "T4", "T5"], "size": 1710887},
+        { "relations": ["T0", "T1", "T3", "T5"], "size": 73211441},
+        { "relations": ["T0", "T1", "T5"], "size": 9150232},
+        { "relations": ["T1", "T3", "T5"], "size": 1771147},
+        { "relations": ["T3", "T5"], "size": 10714},
+        { "relations": ["T1", "T5"], "size": 239977},
+        { "relations": ["T0", "T1", "T2", "T3", "T4", "T5"], "size": 90363912},
+        { "relations": ["T0", "T1", "T2", "T3", "T4"], "size": 2557089},
+        { "relations": ["T0", "T1", "T3"], "size": 12022677},
+        { "relations": ["T1", "T3"], "size": 538672},
+        { "relations": ["T0", "T1", "T2", "T3"], "size": 121263},
+        { "relations": ["T0", "T1", "T2"], "size": 1023268},
+        { "relations": ["T3", "T4", "T5"], "size": 46599},
+        { "relations": ["T0", "T1", "T3", "T4"], "size": 7210529},
+        { "relations": ["T0", "T2"], "size": 2165666},
+        { "relations": ["T0", "T1", "T2", "T3", "T5"], "size": 15102948},
+        { "relations": ["T0", "T1"], "size": 1403388},
+        { "relations": ["T3", "T4"], "size": 484},
+        { "relations": ["T1", "T3", "T4"], "size": 12801}
+    ]
+}
